@@ -8,9 +8,9 @@ GitHub is a version control system.
 
 ## Important Terms
 
-- commit: The version of a file (a save point)
-- repository: centralised storage for files and their history (a container)
-- hash: a unique identifier for each commit
+- **commit:** The version of a file (a save point)
+- **repository:** centralised storage for files and their history (a container)
+- **hash:** a unique identifier for each commit
 
 ## Markdown Cheatsheet
 
