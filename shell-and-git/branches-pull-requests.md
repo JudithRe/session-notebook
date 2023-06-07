@@ -2,7 +2,7 @@
 
 ## Important Terminology
 
-- **Pull request:** essentially a request to add all the changes from a branch into the main branch.
+- **Pull request:** a request to add all the changes from a branch into the main branch.
 - **Reviews:** Get new code checked by team members before merging to main branch
 
 ## Commands
