@@ -1,5 +1,7 @@
 # Git Branches and Pull Requests
 
+<img width="1165" alt="Screenshot 2023-06-07 at 10 17 50" src="https://github.com/JudithRe/session-notebook/assets/64135479/ccbd5dfe-1bbd-48ed-89f9-d244aa3b0a66">
+
 ## Important Terminology
 
 - **Pull request:** a request to add all the changes from a branch into the main branch.
